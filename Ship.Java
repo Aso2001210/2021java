@@ -1,3 +1,3 @@
 public class Ship{
-    public
+    public static void main()
 }
