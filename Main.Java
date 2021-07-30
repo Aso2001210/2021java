@@ -1,3 +1,3 @@
 public static Main{
-    public 
+    public static void main()
 }
